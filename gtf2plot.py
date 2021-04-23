@@ -10,7 +10,7 @@ from collections import defaultdict
 
 
 syntax = """------------------------------------------------------------------------------------------
-Usage: python transcript_plot.py file.gtf*
+Usage: python gtf2plot.py file.gtf*
 
 *File containing gene (transcripts) annotations in gtf format (ensembl-like)
 ------------------------------------------------------------------------------------------
